@@ -1314,7 +1314,7 @@
         {
          "columns":6,
          "firstgid":1,
-         "image":"..\/Workadventure2025\/map-starter-kit-master\/tilesets\/WA_Special_Zones.png",
+         "image":"tilesets\/WA_Special_Zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
@@ -1337,7 +1337,7 @@
         {
          "columns":12,
          "firstgid":13,
-         "image":"..\/Workadventure2025\/map-starter-kit-master\/tilesets\/WA_Decoration.png",
+         "image":"tilesets\/WA_Decoration.png",
          "imageheight":256,
          "imagewidth":384,
          "margin":0,
@@ -1350,7 +1350,7 @@
         {
          "columns":10,
          "firstgid":109,
-         "image":"..\/Workadventure2025\/map-starter-kit-master\/tilesets\/WA_Miscellaneous.png",
+         "image":"tilesets\/WA_Miscellaneous.png",
          "imageheight":352,
          "imagewidth":320,
          "margin":0,
@@ -1363,7 +1363,7 @@
         {
          "columns":12,
          "firstgid":219,
-         "image":"..\/Workadventure2025\/map-starter-kit-master\/tilesets\/WA_Other_Furniture.png",
+         "image":"tilesets\/WA_Other_Furniture.png",
          "imageheight":416,
          "imagewidth":384,
          "margin":0,
@@ -1376,7 +1376,7 @@
         {
          "columns":25,
          "firstgid":375,
-         "image":"..\/Workadventure2025\/map-starter-kit-master\/tilesets\/WA_Room_Builder.png",
+         "image":"tilesets\/WA_Room_Builder.png",
          "imageheight":1280,
          "imagewidth":800,
          "margin":0,
@@ -1389,7 +1389,7 @@
         {
          "columns":13,
          "firstgid":1375,
-         "image":"..\/Workadventure2025\/map-starter-kit-master\/tilesets\/WA_Seats.png",
+         "image":"tilesets\/WA_Seats.png",
          "imageheight":448,
          "imagewidth":416,
          "margin":0,
@@ -1402,7 +1402,7 @@
         {
          "columns":10,
          "firstgid":1557,
-         "image":"..\/Workadventure2025\/map-starter-kit-master\/tilesets\/WA_Tables.png",
+         "image":"tilesets\/WA_Tables.png",
          "imageheight":864,
          "imagewidth":320,
          "margin":0,
@@ -1415,7 +1415,7 @@
         {
          "columns":6,
          "firstgid":1827,
-         "image":"..\/Workadventure2025\/map-starter-kit-master\/tilesets\/WA_Logo_Long.png",
+         "image":"tilesets\/WA_Logo_Long.png",
          "imageheight":32,
          "imagewidth":192,
          "margin":0,
@@ -1428,7 +1428,7 @@
         {
          "columns":25,
          "firstgid":1833,
-         "image":"..\/Workadventure2025\/map-starter-kit-master\/tilesets\/WA_Exterior.png",
+         "image":"tilesets\/WA_Exterior.png",
          "imageheight":1088,
          "imagewidth":800,
          "margin":0,
@@ -1441,7 +1441,7 @@
         {
          "columns":13,
          "firstgid":2683,
-         "image":"..\/Workadventure2025\/map-starter-kit-master\/tilesets\/WA_User_Interface.png",
+         "image":"tilesets\/WA_User_Interface.png",
          "imageheight":672,
          "imagewidth":416,
          "margin":0,
@@ -1454,7 +1454,7 @@
         {
          "columns":100,
          "firstgid":2956,
-         "image":"..\/Workadventure2025\/map-starter-kit-master\/tilesets\/OFFICEV1.jpg",
+         "image":"tilesets\/OFFICEV1.jpg",
          "imageheight":3200,
          "imagewidth":3200,
          "margin":0,
@@ -1467,7 +1467,7 @@
         {
          "columns":10,
          "firstgid":12956,
-         "image":"..\/Workadventure2025\/map-starter-kit-master\/tilesets\/Design sans titre (8).png",
+         "image":"tilesets\/Design sans titre (8).png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
@@ -1480,7 +1480,7 @@
         {
          "columns":1,
          "firstgid":13056,
-         "image":"..\/Workadventure2025\/map-starter-kit-master\/tilesets\/New Piskel-2.png.png",
+         "image":"tilesets\/New Piskel-2.png.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -1493,7 +1493,7 @@
         {
          "columns":15,
          "firstgid":13057,
-         "image":"..\/Workadventure2025\/map-starter-kit-master\/tilesets\/tameverse__5_-removebg-preview.png",
+         "image":"tilesets\/tameverse__5_-removebg-preview.png",
          "imageheight":500,
          "imagewidth":500,
          "margin":0,
@@ -1506,7 +1506,7 @@
         {
          "columns":100,
          "firstgid":13282,
-         "image":"..\/Workadventure2025\/map-starter-kit-master\/tilesets\/OFFICE1teste2025.png",
+         "image":"tilesets\/OFFICE1teste2025.png",
          "imageheight":3200,
          "imagewidth":3200,
          "margin":0,
@@ -1519,7 +1519,7 @@
         {
          "columns":16,
          "firstgid":23282,
-         "image":"..\/Workadventure2025\/map-starter-kit-master\/tilesets\/vitre solv2.png",
+         "image":"tilesets\/vitre solv2.png",
          "imageheight":384,
          "imagewidth":512,
          "margin":0,
@@ -1532,7 +1532,7 @@
         {
          "columns":100,
          "firstgid":23474,
-         "image":"..\/Workadventure2025\/map-starter-kit-master\/tilesets\/OFFICE1.jpg",
+         "image":"tilesets\/OFFICE1.jpg",
          "imageheight":3200,
          "imagewidth":3200,
          "margin":0,
@@ -1545,7 +1545,7 @@
         {
          "columns":5,
          "firstgid":33474,
-         "image":"..\/Workadventure2025\/map-starter-kit-master\/tilesets\/meetingtablemoyennoir.png",
+         "image":"tilesets\/meetingtablemoyennoir.png",
          "imageheight":128,
          "imagewidth":160,
          "margin":0,
