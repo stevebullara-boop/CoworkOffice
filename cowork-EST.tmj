@@ -1185,12 +1185,12 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"officevosso.png"
+         "value":"cowork-EST.png"
         }, 
         {
          "name":"mapName",
          "type":"string",
-         "value":"officevosso"
+         "value":"Cowork-EST"
         }, 
         {
          "name":"script",
