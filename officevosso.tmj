@@ -1577,10 +1577,6 @@
          "tilecount":10000,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "firstgid":43494,
-         "source":":\/automap-tiles.tsx"
         }],
  "tilewidth":32,
  "type":"map",
