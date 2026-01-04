@@ -1581,19 +1581,6 @@
         {
          "firstgid":43494,
          "source":":\/automap-tiles.tsx"
-        }, 
-        {
-         "columns":32,
-         "firstgid":43499,
-         "image":"tilesets\/gpttuiles.png",
-         "imageheight":1024,
-         "imagewidth":1024,
-         "margin":0,
-         "name":"gpttuiles",
-         "spacing":0,
-         "tilecount":1024,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
