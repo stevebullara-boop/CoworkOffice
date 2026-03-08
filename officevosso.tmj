@@ -2968,54 +2968,8 @@
          "tilewidth":32
         }, 
         {
-         "columns":32,
          "firstgid":52926,
-         "image":"tilesets\/Outside Objects.png",
-         "imageheight":1024,
-         "imagewidth":1024,
-         "margin":0,
-         "name":"Outside Objects",
-         "spacing":0,
-         "tilecount":1024,
-         "tileheight":32,
-         "tiles":[
-                {
-                 "animation":[
-                        {
-                         "duration":500,
-                         "tileid":923
-                        }, 
-                        {
-                         "duration":500,
-                         "tileid":924
-                        }, 
-                        {
-                         "duration":500,
-                         "tileid":955
-                        }, 
-                        {
-                         "duration":500,
-                         "tileid":956
-                        }, 
-                        {
-                         "duration":500,
-                         "tileid":955
-                        }, 
-                        {
-                         "duration":500,
-                         "tileid":956
-                        }, 
-                        {
-                         "duration":500,
-                         "tileid":923
-                        }, 
-                        {
-                         "duration":500,
-                         "tileid":924
-                        }],
-                 "id":924
-                }],
-         "tilewidth":32
+         "source":"Outside Objects.tsx"
         }, 
         {
          "columns":32,
