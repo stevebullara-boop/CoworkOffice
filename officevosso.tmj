@@ -1355,7 +1355,7 @@
                  "height":180,
                  "id":44,
                  "name":"furniture1",
-                 "opacity":0.5,
+                 "opacity":1,
                  "type":"tilelayer",
                  "visible":true,
                  "width":180,
